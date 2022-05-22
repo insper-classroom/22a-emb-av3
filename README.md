@@ -17,11 +17,12 @@ Os exemplos podem ser em vários temas diferentes que a disciplina de computaç�
 A contribuição tem que ser na forma de um **Pull Request** para o repositório `same70-examples` e deve conter:
 
 - um projeto do microchip studio com o código exemplo **COMENTADO**,
-- um README explicativo
-    - com referências aos manuais
-    - diagrama 
-    - trechos de código comentado
-    - etx
+- um README explicativo contendo:
+    - explicação sobre o periférico com referência aos manuais
+    - diagrama de blocos ([exemplo](https://github.com/Insper/SAME70-examples/raw/master/Perifericos-uC/AFEC-Pin/doc/Diagrama_AFEC-Pin.svg))
+    - trechos de código comentado 
+    - etc
+- um vídeo (aprox 5 min) explicando o periférico e o exemplo
     
 O exemplo do TC é uma boa referência do que deve ser entregue:
 
@@ -53,6 +54,8 @@ Para fazer o envio da entrega você deve:
 1. fazer um push para o fork
 1. fazer um PR para o upstream 
 
+Lembre de colocar no PR uma pequena descrição do que você está propondo.
+
 ## Validando
 
-O Pull-request será avaliado pela equipe e só aceito se estiver com qualidade similar aos exemplos fornecido no repositório.  
+O Pull-request será avaliado pela equipe e só aceito (nota liberada) se estiver com qualidade similar aos exemplos fornecido no repositório e todos e com todos os requisitos pedidos.
