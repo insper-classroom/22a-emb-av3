@@ -35,18 +35,18 @@ Temos uma lista de tópicos que podem ser escolhidos, notem que cada ideia já p
 
 ### Exemplos fabricante
 
-O fabricante disponibiliza exemplos para a maioria dos periféricos listados anteriormente, para acessar a lista:
+O fabricante disponibiliza exemplos para a maioria dos periféricos do uClistados anteriormente, eles podem servir como base para a sua contribuição, para acessar a lista:
 
 1. abra o microchip studio
 1. File -> New -> Example Project ...
 1. Busque por `same70`
 1. Expanda a lista (que por padrão está fechada)
 
-:alert: Você pode usar o exemplo do fabricante como código base para o seu exemplo, mas você deverá editar e tornar ele mais amigável.
+⚠️ Você pode usar o exemplo do fabricante como código base para o seu exemplo, mas você deverá editar e tornar ele mais amigável.
 
-## Contribuindo
+## Entrega
 
-Para fazer o envio da contribuição você deve:
+Para fazer o envio da entrega você deve:
 
 1. fazer um fork do repositório same70-examples
 1. criar a nova pasta do exemplo
@@ -55,4 +55,4 @@ Para fazer o envio da contribuição você deve:
 
 ## Validando
 
-O Pull-request será avaliado pela equipe e só aceito se estiver com qualidade similar aos exemplos fornecido no repositório 
+O Pull-request será avaliado pela equipe e só aceito se estiver com qualidade similar aos exemplos fornecido no repositório.  
