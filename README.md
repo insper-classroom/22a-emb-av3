@@ -9,11 +9,20 @@ Avaliação take-away de embarcados! A ideia aqui é que vocês criem um código
 A contribuição tem que ser na forma de um **Pull Request** para o repositório `same70-examples` e deve conter:
 
 - um projeto do microchip studio com o código exemplo **COMENTADO**,
+<<<<<<< HEAD
 - um README explicativo
     - com referências aos manuais
     - diagrama 
     - trechos de código comentado
     - etc ...
+=======
+- um README explicativo contendo:
+    - explicação sobre o periférico com referência aos manuais
+    - diagrama de blocos ([exemplo](https://github.com/Insper/SAME70-examples/raw/master/Perifericos-uC/AFEC-Pin/doc/Diagrama_AFEC-Pin.svg))
+    - trechos de código comentado 
+    - etc
+- um vídeo (aprox 5 min) explicando o periférico e o exemplo
+>>>>>>> origin/main
     
 O exemplo do TC é uma boa referência do que deve ser entregue:
 
@@ -37,22 +46,29 @@ Os exemplos são classificados em vários temas diferentes que a disciplina de c
 
 ### Exemplos fabricante
 
+<<<<<<< HEAD
 O fabricante disponibiliza exemplos para a maioria dos periféricos listados anteriormente, para acessar:
+=======
+O fabricante disponibiliza exemplos para a maioria dos periféricos do uClistados anteriormente, eles podem servir como base para a sua contribuição, para acessar a lista:
+>>>>>>> origin/main
 
 1. abra o microchip studio
 1. File -> New -> Example Project ...
 1. Busque por `same70`
 1. Expanda a lista (que por padrão está fechada)
 
-:alert: Você pode usar o exemplo do fabricante como código base para o seu exemplo, mas você deverá editar e tornar ele mais amigável.
+⚠️ Você pode usar o exemplo do fabricante como código base para o seu exemplo, mas você deverá editar e tornar ele mais amigável.
 
 ## Entrega
+<<<<<<< HEAD
 
 Primeira etapa é indicar no issue que você deseja fazer o exemplo em questão, não pode repetir! 
 
 ### Contribuindo
+=======
+>>>>>>> origin/main
 
-Para fazer o envio da contribuição você deve:
+Para fazer o envio da entrega você deve:
 
 1. fazer um fork do repositório same70-examples
 1. criar a nova pasta do exemplo
@@ -60,6 +76,14 @@ Para fazer o envio da contribuição você deve:
 1. fazer um push para o fork
 1. fazer um PR para o upstream 
 
+<<<<<<< HEAD
 ### Validando
 
 O Pull-request será avaliado pela equipe e só aceito se estiver com qualidade similar aos exemplos fornecido no repositório, no PR nós iremos pedir revisões da entrega. A nota só sera liberada após o exemplo possuir (com qualidade) todos os itens listados.
+=======
+Lembre de colocar no PR uma pequena descrição do que você está propondo.
+
+## Validando
+
+O Pull-request será avaliado pela equipe e só aceito (nota liberada) se estiver com qualidade similar aos exemplos fornecido no repositório e todos e com todos os requisitos pedidos.
+>>>>>>> origin/main
