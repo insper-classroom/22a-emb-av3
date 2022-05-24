@@ -2,7 +2,7 @@
 
 | Entrega |
 |---------|
-| 7/6     |
+| 5/6     |
 
 Avaliação take-away de embarcados! A ideia aqui é que vocês criem um código exemplo de alguma coisa que temos no microcontrolador ou no laboratório e que ainda não foi explorado. 
 
